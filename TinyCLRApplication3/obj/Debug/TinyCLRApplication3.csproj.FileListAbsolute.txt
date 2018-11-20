@@ -1,0 +1,11 @@
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\bin\Debug\TinyCLRApplication3.exe
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\bin\Debug\TinyCLRApplication3.pdb
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\bin\Debug\mscorlib.dll
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\obj\Debug\TinyCLRApplication3.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\obj\Debug\TinyCLRApplication3.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\obj\Debug\TinyCLRApplication3.csproj.CopyComplete
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\obj\Debug\TinyCLRApplication3.exe
+C:\Users\marce\source\repos\TinyCLRApplication3\TinyCLRApplication3\obj\Debug\TinyCLRApplication3.pdb
